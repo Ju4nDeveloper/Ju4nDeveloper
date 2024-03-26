@@ -10,9 +10,6 @@
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="css"/> 
   </a> 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/REACT-3c8da3?style=for-the-badge&logo=react&logoColor=white" alt="react"/> 
-  </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-baac38?style=for-the-badge&logo=javascript&logoColor=white" alt="javaScript"/> 
   </a> 
