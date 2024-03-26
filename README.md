@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Aurora
 - 🌱 I’m currently learning Java Plugins
-- 👯 I’m looking to collaborate on AquaCore
-- 🕹️ 6 Month of developer
+- 🕹️ 8 Month of developer
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/> 
