@@ -1,9 +1,10 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Aurora
-- 🌱 I’m currently learning Java Plugins
-- 🕹️ 8 Month of developer
-<p align="left"> 
+<p align="center">
+  <h2 align="center">Hi, my name is <b>Juan 👋</b> </h2>
+ <p align="center" style="margin: 0px;"> 
+    <br> 🕹️ <b>8 Month </b>of developer<br>✨ I'm <b>16</b> years old<br> <br>I have <b>knowledge</b> in:</p>
+<br>
+</p>
+<p align="center"> 
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/> 
   </a> 
@@ -22,9 +23,20 @@
    <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ASTRO-purple?style=for-the-badge&logo=astro&logoColor=white" alt="astro"/> 
   </a> 
-
 </p>
-<p>
-    <img src="https://komarev.com/ghpvc/?username=Ju4nDeveloper&style=flat-square" alt="GitHub Views">
+<p align="center">
+  <a href="https://github.com/Ju4nDeveloper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ju4nDeveloper&show_icons=true&theme=radical&count_private=true&locale=en" alt="RisasDev"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ju4nDeveloper">
+    <img src="https://komarev.com/ghpvc/?username=Ju4nDeveloper&color=red" alt="GitHub Views">
+    <a/>
   </p>
+  <p align="center">
+  <a href="https://twitter.com/ErrorDev0210">
+    <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+</p>
 
