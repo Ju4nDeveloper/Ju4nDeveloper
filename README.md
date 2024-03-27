@@ -20,7 +20,7 @@
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/TAILWIND%20CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind-css"/> 
   </a> 
-   <a href="https://tailwindcss.com/" target="_blank"> 
+   <a href="https://astro.build" target="_blank"> 
     <img src="https://img.shields.io/badge/ASTRO-purple?style=for-the-badge&logo=astro&logoColor=white" alt="astro"/> 
   </a> 
 </p>
