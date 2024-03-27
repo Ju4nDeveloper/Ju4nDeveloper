@@ -24,5 +24,7 @@
   </a> 
 
 </p>
-
+<p>
+    <img src="https://komarev.com/ghpvc/?username=Ju4nDeveloper&style=flat-square" alt="GitHub Views">
+  </p>
 
