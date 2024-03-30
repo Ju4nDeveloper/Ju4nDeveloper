@@ -23,20 +23,37 @@
    <a href="https://astro.build" target="_blank"> 
     <img src="https://img.shields.io/badge/ASTRO-purple?style=for-the-badge&logo=astro&logoColor=white" alt="astro"/> 
   </a> 
+  <img src="https://img.shields.io/badge/TERMINAL-black?style=for-the-badge&logo=windowsterminal" alt="terminal"/> 
+    <a href="https://code.visualstudio.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-blue?style=for-the-badge&logo=visualstudiocode" alt="vscode"/> 
+  </a> 
+  
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-blueviolet?style=for-the-badge&logo=intellijidea" alt="intellijidea"/> 
+  </a> 
+  
 </p>
-<p align="center">
-  <a href="https://github.com/Ju4nDeveloper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ju4nDeveloper&show_icons=true&theme=radical&count_private=true&locale=en" alt="RisasDev"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ju4nDeveloper">
-    <img src="https://komarev.com/ghpvc/?username=Ju4nDeveloper&color=red" alt="GitHub Views">
-    <a/>
+
+<details>
+  <summary>Stats:</summary>
+  <br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ju4nDeveloper&color=red" alt="Ju4nDeveloper's GitHub Views">
   </p>
   <p align="center">
-  <a href="https://twitter.com/ErrorDev0210">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ju4nDeveloper&show_icons=true&theme=radical" alt="Ju4nDeveloper's GitHub stats" >
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ju4nDeveloper&show_icons=true&theme=radical&locale=en&layout=compact" alt="Ju4nDeveloper's most used languages" />
+  </p>
+</details>
+  <p align="center">
+  <a href="https://twitter.com/Ju4nDeveloper">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
+    <a href="https://discord.gg/HAPUgHkhqE">
+    <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  </a>
 </p>
+
 
